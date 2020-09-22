@@ -3,8 +3,6 @@
 * [contract code](https://github.com/Uniswap/uniswap-v2-core)
 * [audit](https://uniswap.org/audit.html)
 
----
-
 ## AAVE 
 
 * [contract code](https://github.com/aave/aave-protocol) 
@@ -12,14 +10,10 @@
 * [audit(OpenZeppelin)](https://blog.openzeppelin.com/aave-protocol-audit/)
 * [audit(ToB)](https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf)
 
----
-
 ## Curve
 
 * [contract code](https://github.com/curvefi/curve-contract)
 * [audit](https://www.curve.fi/curve_audits/01-ToB.pdf)
-
----
 
 ## Balancer
 
